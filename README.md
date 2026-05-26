@@ -1,10 +1,10 @@
-# off_highway_sensor_drivers
+# ScriptSourceFilter
 
 This project provides ROS drivers for Bosch Off-Highway sensor systems.
 
-The off_highway_sensor_drivers package is developed for ROS 2 Humble on Ubuntu 22.04.
+The ScriptSourceFilter package is developed for ROS 2 Humble on Ubuntu 22.04.
 
-The [**off_highway_sensor_drivers**](off_highway_sensor_drivers/package.xml) package acts as
+The [**ScriptSourceFilter**](ScriptSourceFilter/package.xml) package acts as
 metapackage for all of the following packages.
 
 ## Ethernet Based Drivers
@@ -63,7 +63,7 @@ following diagram for a system overview:
 
 ## Miscellaneous
 
-- [**off_highway_sensor_drivers_examples**](off_highway_sensor_drivers_examples/README.md): Sample
+- [**ScriptSourceFilter_examples**](ScriptSourceFilter_examples/README.md): Sample
   launch files and scripts to assist with further processing of sensor data.
 
 For further information, have a look at the linked package readme.
@@ -77,7 +77,7 @@ For further information, have a look at the linked package readme.
   sensors](https://www.bosch-mobility-solutions.com/en/solutions/assistance-systems/ultrasonic-sensor-systems-ohw/)
 
 Or contact
-[**off-highway.beg@bosch.com**](mailto:off-highway.beg@bosch.com?subject=off_highway_sensor_drivers%20Hardware%20Question).
+[**off-highway.beg@bosch.com**](mailto:off-highway.beg@bosch.com?subject=ScriptSourceFilter%20Hardware%20Question).
 
 ## Intended Use
 
